@@ -3,3 +3,4 @@
 Описание: Комплексная работа по Git
 Temporary change
 Draft documentation
+Incorrect project description
